@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d75b67df-fd22-40d6-88f3-e8d9642cb1c5" name="Changes" comment="hw2 ok">
-      <change afterPath="$PROJECT_DIR$/HomeWorks/home_wotk2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminars/Seminar2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWorks/home_work3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminars/seminar3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +43,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.Seminar2.executor": "Run",
     "Python.home_work1.executor": "Run",
+    "Python.home_work3.executor": "Debug",
     "Python.home_wotk2.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -82,12 +83,31 @@
       <option name="project" value="LOCAL" />
       <updated>1741936974338</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="hw2 ok">
+      <option name="closed" value="true" />
+      <created>1741937022621</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741937022621</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hw1 ok" />
     <MESSAGE value="hw2 ok" />
     <option name="LAST_COMMIT_MESSAGE" value="hw2 ok" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HomeWorks/home_work3.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
