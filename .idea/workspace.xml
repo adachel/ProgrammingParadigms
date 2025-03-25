@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d75b67df-fd22-40d6-88f3-e8d9642cb1c5" name="Changes" comment="hw3 ok">
-      <change afterPath="$PROJECT_DIR$/HomeWorks/home_work4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminars/seminar4.py" afterDir="false" />
+    <list default="true" id="d75b67df-fd22-40d6-88f3-e8d9642cb1c5" name="Changes" comment="hw4 ok">
+      <change afterPath="$PROJECT_DIR$/HomeWorks/home_work6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminars/seminar6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWorks/home_wotk2.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWorks/home_work2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +45,10 @@
     "Python.home_work1.executor": "Run",
     "Python.home_work3.executor": "Run",
     "Python.home_work4.executor": "Run",
+    "Python.home_work6.executor": "Run",
     "Python.home_wotk2.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.seminar6.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -103,21 +104,30 @@
       <option name="project" value="LOCAL" />
       <updated>1741955819225</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="hw4 ok">
+      <option name="closed" value="true" />
+      <created>1742818697120</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1742818697120</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hw1 ok" />
     <MESSAGE value="hw2 ok" />
     <MESSAGE value="hw3 ok" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw3 ok" />
+    <MESSAGE value="hw4 ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw4 ok" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HomeWorks/home_work4.py</url>
-          <line>15</line>
+          <url>file://$PROJECT_DIR$/HomeWorks/home_work6.py</url>
+          <line>32</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
